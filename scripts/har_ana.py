@@ -9,7 +9,7 @@
 # HISTORY:
 #       version 1.0     01/08/2020              --- program initial
 #
-version = 'v3.1'
+version = 'v1.0'
 
 import sys
 import os
